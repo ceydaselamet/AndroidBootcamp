@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">AndroidBootcampOdevler</string>
+    <string name="app_name">Movie</string>
+    <string name="movieTitle">The Truman Show</string>
+    <string name="imdb">IMDb Rating : 8.2</string>
+    <string name="actors">Actors</string>
+    <string name="comments">Comments</string>
+    <string name="about">About</string>
+    <string name="relaseDate">Relase Date : 1998</string>
+    <string name="watch">Play</string>
+    <string name="line">Good morning! In case I don\'t see you; good day, good evening and good night!</string>
 </resources>

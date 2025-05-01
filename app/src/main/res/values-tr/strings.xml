@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="movieTitle">The Truman Show</string>
+    <string name="imdb">IMDb Oylaması : 8.2</string>
+    <string name="actors">Oyuncular</string>
+    <string name="comments">Yorumlar</string>
+    <string name="about">Hakkında</string>
+    <string name="relaseDate">Çıkış Tarihi : 1998</string>
+    <string name="watch">Oynat</string>
+    <string name="line">Günaydın! Olur ya belki sizi göremem; iyi günler, iyi akşamlar ve iyi geceler!</string>
+</resources>
